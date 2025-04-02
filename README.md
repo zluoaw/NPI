@@ -1,4 +1,4 @@
-# NPI
+# NPI (Neural Perturbational Inference)
 
 [Mapping effective connectivity by virtually perturbing a surrogate brain](https://arxiv.org/abs/2301.00148)
 
