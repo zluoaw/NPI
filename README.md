@@ -1,6 +1,6 @@
 # NPI (Neural Perturbational Inference)
 
-[Mapping effective connectivity by virtually perturbing a surrogate brain]([https://www.nature.com/articles/s41592-025-02654-x])
+[Mapping effective connectivity by virtually perturbing a surrogate brain](https://www.nature.com/articles/s41592-025-02654-x)
 
 ## **Abstract**
 
